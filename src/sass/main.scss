@@ -1,0 +1,16 @@
+/*
+ * Все паршалы импортировать в этот файл
+ */
+
+@import 'normalize.scss';
+@import 'helpers/variables.scss';
+@import 'helpers/placeholders.scss';
+@import 'helpers/mixins.scss';
+@import 'base.scss';
+
+
+@import 'sections/header.scss';
+@import 'sections/infection.scss';
+@import 'sections/bad_goods.scss';
+@import 'sections/about_mikocin.scss';
+@import 'sections/use_mikocin.scss';
